@@ -12,6 +12,7 @@ section {
     background-color: rgba(255, 212, 207, 1);
     align-items: center;
     justify-content: space-evenly;
+
 }
 
 .banner-text {
@@ -98,18 +99,18 @@ h2 {
 }
 
 .wish-card h2 {
-    font-size: 35px;
-    text-decoration: underline;
+    font-size: 40px;
+
 
 }
 
 .wish-card p {
-    font-size: 20px;
+    font-size: 30px;
     color: #ffffff;
     border: 1px solid #E55473;
     background-color: #E55473;
-    /* border-radius: 10px; */
-    /* width: 50%; */
+    padding: 15px;
+
 }
 
 
@@ -126,7 +127,6 @@ h2 {
 .hot-text {
     font-size: 20px;
     width: 40%;
-    /* width: 1000%; */
     line-height: 2;
 }
 
