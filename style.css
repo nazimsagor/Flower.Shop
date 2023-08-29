@@ -1,0 +1,180 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0%;
+}
+
+section {
+    margin-bottom: 80px;
+}
+
+.top-banner {
+    display: flex;
+    background-color: rgba(255, 212, 207, 1);
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.banner-text {
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+}
+
+.banner-text h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.banner-text p {
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+    background-color: #E55473;
+    border-radius: 10px;
+    margin-top: 500px;
+}
+
+.featured-text {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.featured-text h1 {
+    font-size: 40px;
+}
+
+.featured-img {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    text-align: center;
+    text-decoration: underline;
+
+
+
+}
+
+.flower-box img {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 500px 500px 0px 0px;
+    width: 100%;
+    padding: 40px 20px 0px 20px;
+
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+.pink-flower {
+    background-color: rgba(167, 33, 98, 0.2);
+}
+
+.red-flower {
+    background-color: rgba(5, 151, 160, 0.15);
+
+}
+
+.orange-flower {
+    background-color: rgba(71, 125, 17, 0.15);
+}
+
+.wish-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.wish-card h2 {
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+.wish-card p {
+    font-size: 20px;
+    color: #ffffff;
+    border: 1px solid #E55473;
+    background-color: #E55473;
+    /* border-radius: 10px; */
+    /* width: 50%; */
+}
+
+
+.hot-deal {
+    display: flex;
+    background-color: rgb(251, 237, 236);
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 60vh;
+
+}
+
+.hot-text {
+    font-size: 20px;
+    width: 40%;
+    /* width: 1000%; */
+    line-height: 2;
+}
+
+span {
+    color: #E55473;
+}
+
+.hot-text h1 {
+    font-size: 40px;
+}
+
+.instagram-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.latest-deals {
+    background-image: url(./images/Rectangle\ 9.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.contact-button {
+    font-size: 30px;
+}
+
+.contact-email {
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    border-color: none;
+    color: #E55473;
+    background-color: white;
+
+}
+
+footer {
+    background-color: #0B0D17;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
